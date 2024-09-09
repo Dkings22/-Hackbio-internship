@@ -1,0 +1,17 @@
+Track 3: Data Science and Machine Learning.
+
+AlphaFold
+
+Using Structural Biology to Revolutionize the Biomarker Field A groundbreaking artificial intelligence (AI) system called AlphaFold was created by Alphabet subsidiary DeepMind, and it has completely changed the field of protein structure prediction. This artificial intelligence technology, which was first introduced in 2018 and improved upon in 2020 with the release of AlphaFold 2, use deep learning algorithms to precisely predict the three-dimensional structure of proteins based only on their amino acid sequences. AlphaFold's creation signifies a revolutionary step in the field of computational biology, since protein structure prediction has always been among the trickiest and most computationally demanding jobs in bioinformatics (Jumper, J. et al. 2021).
+
+ Proteins are essential to all biological activities, and the amino acid sequence determines their forms, which in turn dictate their functions.Comprehending the relationship between sequence and structure is crucial for comprehending biological systems and creating effective treatment plans. Protein structures have traditionally been determined using labor-intensive, time-consuming, and expensive techniques such as X-ray crystallography, nuclear magnetic resonance (NMR), and cryo-electron microscopy (cryo-EM) ( Senior, A.W. 2020). By employing AI to predict protein structures with impressive accuracy, AlphaFold gets over these restrictions. Using deep neural networks that have been trained on enormous datasets of known protein structures, AlphaFold operates. Understanding the function of proteins depends on its ability to anticipate their folding and spot patterns in the sequence data. One of the most important scientific discoveries in recent years has been recognized as being AlphaFold's ability to accurately anticipate protein structures (Senior, A.W. et al. 2020). AlphaFold is Significant in Biomarkers.
+
+One practical application of AlphaFold can be seen in the fight against malaria, a disease that claims hundreds of thousands of lives each year. The malaria parasite, Plasmodium falciparum, relies on several proteins for its survival and ability to infect human hosts. Many of these proteins have been difficult to study due to their complex structures, hindering efforts to develop new treatments (eepMind, 2021).
+
+          References
+
+Jumper, J., Evans, R., Pritzel, A., Tim G., Michael F., Olaf, R., Kathryn, T., Russ, B., Augustin, Ž., Anna, P., Alex, B., Clemens, M., Simon, A. A. K., Andrew, J. B., Andrew, C., Bernardino, R. P., Stanislav, N., Rishub, J. & Demis, H. (2021). Highly accurate protein structure prediction with AlphaFold. Nature, 596, 583–589 .
+
+Senior, A.W., Evans, R., Jumper, J., James, K., Laurent, S., Tim, G., Chongli, Q., Augustin, Ž., Alexander W. R. N., Alex, B., Hugo, P., Stig, P., Karen, S., Steve, C., Pushmeet, K., David, T. J., David, S., Koray, K. & Demis, H. (2020).Improved protein structure prediction using potentials from deep learning. Nature 577, 706–710
+
+DeepMind. (2021). AlphaFold: A Solution to a 50-Year-Old Grand Challenge in Biology. DeepMind Blog https\://deepmind.google/discover/blog/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology/
